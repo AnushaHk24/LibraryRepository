@@ -36,7 +36,7 @@ FROM openjdk:17-jdk-slim
 
  
 
-ARG JAR_FILE=target/LibraryRepository.jar
+ARG JAR_FILE=target/Library-project.jar
 
  
 
